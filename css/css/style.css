@@ -292,7 +292,8 @@ font-style: italic;
 	}
 
 	.site-description{
-		font-size:1.5rem;
+		font-size:1rem;
+		Font-family:’Marcellus’,serif;
 	}
 	.hall_image{
 		max-width: 40%;
