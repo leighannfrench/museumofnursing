@@ -335,7 +335,7 @@ font-style: italic;
 
 	.large_text{
 		list-style:none;
-		font-size:35px;
+		font-size:15px;
 		font-family: 'Zen Kurenaido', sans-serif;
 		text-align:center;
 		color:#436572;
@@ -714,5 +714,9 @@ font-style: italic;
 			display: block;
 			margin: 0;
 			padding: 0;
+		}
+		.large_text{
+	
+		font-size:35px;
 		}
 	}
